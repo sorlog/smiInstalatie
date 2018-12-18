@@ -1,0 +1,2 @@
+# smiInstalatie
+proiect
